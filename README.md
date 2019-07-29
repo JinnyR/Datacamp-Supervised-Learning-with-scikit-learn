@@ -1,6 +1,6 @@
 # Datacamp-Supervised-Learning-with-scikit-learn
 
-# Datacamp Data Science Track - Course 21
+### Datacamp Data Science Track - Course 21
 
 Chapter 1: Classification
 
